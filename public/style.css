@@ -1,0 +1,25 @@
+#thanhpho{
+    text-align: center;
+    color:black;
+}
+li{
+    list-style: none;
+
+}
+#tab{
+    font-size: x-small
+}
+#pmax{
+    font-size: 10px;
+  
+    font: bolder;
+   
+}
+#pmin{
+    font-size: 9px;
+   
+}
+
+#nav{
+    font-size: 12px
+}
